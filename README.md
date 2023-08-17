@@ -2,12 +2,14 @@
 
 ###
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agricreation&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agricreation&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIR9DMEbkKrB7UwbstGcqVQ-1An4rn8K2F8oWlgjogdKD7QiHwUDBOHYtjbIwR_tx9tOTh7ar0QB1tdrmgBV_pNu8PAiJMGz40IL3kLiLNsXUNQber4U70H-LDlscWvHwpqLeL7DJ8uSVJeMDUM24OfJ4qiDA6ggn3lB8zC2OKc4daLx0vTcb4RF4l/s16000/moovendhan_linkedin_dark.png" alt="moovendhan" />
 
 <img align="right" height="150" src="https://1.bp.blogspot.com/-98FLdlCRUd0/YWKOXC4rC1I/AAAAAAAAA48/6TOa-g8_AXA96ZUf0wnQZk-xTExGgRNzACLcBGAsYHQ/s150/hkr%2Bagri%2Btechs%2Blogo%2Btamil.png"  />
 
@@ -82,7 +84,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/agricreation/agricreation/output/snake.svg" alt="Snake animation" />
 
 ###
